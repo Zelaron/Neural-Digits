@@ -1,10 +1,10 @@
 # Neural Digits
 
-A simple Python script for training, testing, and performing inference with a neural network on the MNIST dataset of handwritten digits. Built with PyTorch, Neural Digits allows for training from scratch, continuing from a saved model, evaluating performance, and predicting digits from individual image files.
+A simple Python script for training, testing, and performing inference with a neural network on the MNIST dataset of handwritten digits. Built with PyTorch, Neural Digits allows for training from scratch, continuing from a saved model, evaluating performance, and predicting digits from individual image files. It is capable of achieving over 99% accuracy on the MNIST training data with about 50 epochs of training.
 
 ## Features
 
-- **Training Mode:** Train a neural network from scratch or continue training from a saved checkpoint. Capable of achieving over 99% accuracy on the MNIST training data with about 50 epochs of training.
+- **Training Mode:** Train a neural network from scratch or continue training from a saved checkpoint.
 - **Testing Mode:** Evaluate the trained model's accuracy on the MNIST test dataset.
 - **Inference Mode:** Predict the digit in a provided image file.
 
