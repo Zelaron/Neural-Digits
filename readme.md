@@ -1,6 +1,6 @@
 # Neural Digits
 
-This repository contains a Python script for training, testing, and performing inference with a neural network on the MNIST dataset of handwritten digits. The project uses PyTorch to implement a simple yet powerful neural network called Neural Digits. It includes functionality to train from scratch, continue training from a saved model, evaluate the model's performance, and predict digits from individual image files.
+A simple Python script for training, testing, and performing inference with a neural network on the MNIST dataset of handwritten digits. Built with PyTorch, Neural Digits allows for training from scratch, continuing from a saved model, evaluating performance, and predicting digits from individual image files.
 
 ## Features
 
